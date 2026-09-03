@@ -1,1 +1,1 @@
-111.255.147.68
+upstream connect error or disconnect/reset before headers. reset reason: connection timeout
